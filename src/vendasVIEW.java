@@ -29,7 +29,7 @@ public class vendasVIEW extends javax.swing.JFrame {
         jScrollPane1.setViewportView(tabelaVendas);
 
         jLabel1.setFont(new java.awt.Font("Lucida Fax", 0, 18));
-        jLabel1.setText("Produtos Vendidos");
+        jLabel1.setText("Tela de Vendas");
 
         btnVoltar.setText("Voltar");
         btnVoltar.addActionListener(new java.awt.event.ActionListener() {
