@@ -145,7 +145,7 @@ public class listagemVIEW extends javax.swing.JFrame {
         listarProdutos();
 
     } catch (Exception e) {
-        javax.swing.JOptionPane.showMessageDialog(null, "Erro ao vender produto: " + e.getMessage());
+        javax.swing.JOptionPane.showMessageDialog(null, "Erro ao realizar venda: " + e.getMessage());
     }
 
     }//GEN-LAST:event_btnVenderActionPerformed
